@@ -1,5 +1,5 @@
 ## Output Format:
-[[brand_name,type],total_post_count]
+[[brand_name,type],total_post_count]</br>
 `
 [["ks", "post"], 4533]
 [["ks", "user"], 1822]
