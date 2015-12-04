@@ -7,7 +7,8 @@ Top10 provinces in China: [['province',province_id],total_post_count]</br>
 
 
 
-Top10 nations: [['nation',nation_id],total_post_count] (Note that nation code 0 represents China)</br>
-`[[["nation", "0"], 4889], [["nation", "1"], 2958], [["nation", "1000"], 736], [["nation", "16"], 183], [["nation", "5"], 181], [["nation", "2"], 103], [["nation", "7"], 57], [["nation", "15"], 47], [["nation", "3"], 37], [["nation", "11"], 20]]`
+Top10 nations: [['nation',nation_id],total_post_count] </br>
+`[[["nation", "0"], 4889], [["nation", "1"], 2958], [["nation", "1000"], 736], [["nation", "16"], 183], [["nation", "5"], 181], [["nation", "2"], 103], [["nation", "7"], 57], [["nation", "15"], 47], [["nation", "3"], 37], [["nation", "11"], 20]]`</br>
+Note that nation code 0 represents China
 
 For more information regarding the province and city code, please refer to http://open.weibo.com/wiki/%E7%9C%81%E4%BB%BD%E5%9F%8E%E5%B8%82%E7%BC%96%E7%A0%81%E8%A1%A8
